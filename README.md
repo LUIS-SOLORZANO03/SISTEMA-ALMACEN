@@ -23,4 +23,4 @@ Sistema de gestión de almacén desarrollado en **PHP y MySQL**, diseñado para 
 ## 🚀 Instalación y uso
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/sistema-almacen.git
+   git clone https://github.com/LUIS-SOLORZANO03/SISTEMA-ALMACEN.git
